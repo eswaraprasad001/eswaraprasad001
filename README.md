@@ -26,8 +26,7 @@
 [<img align="left" alt="Pandas" width="26px" src="https://www.svgrepo.com/show/306534/pandas.svg" />]
 [<img align="left" alt="Scikit Learn" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F905%2F45%2Fpng-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png&f=1&nofb=1" />]
 [<img align="left" alt="Numpy" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F98330%2F63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png&f=1&nofb=1" />]
-<br />
-<br />
+
 
 
 ### 📕 Latest Blog Posts
@@ -42,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Eswara Prasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eswaraprasad01&show_icons=true&hide_border=true" />
+  <img align="left" alt="Eswara Prasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eswaraprasad001&show_icons=true&hide_border=true" />
 
 </details>
 
