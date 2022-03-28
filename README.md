@@ -32,11 +32,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Pandas vs Dask : The Power of Parallel Computing !](https://medium.com/featurepreneur/pandas-vs-dask-the-power-of-parallel-computing-994a202a74bd)
+- [What is Auto-ARIMA?](https://medium.com/featurepreneur/what-is-auto-arima-b8025c6d732d)
+- [What is DVC(Data Version Control) and How to get started?](https://medium.com/featurepreneur/what-is-dvc-data-version-control-and-how-to-get-started-25bf3991e6a4)
+- [A Roadmap for Time-Series Analysis](https://medium.com/featurepreneur/a-roadmap-for-time-series-analysis-3faf49b2126)
+- [Statistics: Measures of Central Tendency](https://medium.com/featurepreneur/statistics-measures-of-central-tendency-32ffd17c5293)
 <!-- BLOG-POST-LIST:END -->
 ---
 
