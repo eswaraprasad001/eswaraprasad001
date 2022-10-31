@@ -4,7 +4,7 @@
 ## I'm a Machine Learning Engineer, and Mentor!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m curently working as an intern in TactLabs
+- 👯 I’m curently working as a developer in Presidio
 - 🥅 Goals: Automating routine Tasks
 
 
